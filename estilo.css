@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0;}
+body{background-color: white}
+
+nav{background-color: #C8E6C9;text-align: left; padding: 5px;}
+#menu{text-decoration: none;margin: 20px}
+#menu:hover{color: gray}
+h1{margin: 15px}
+
+
+article{background-color: #96CE98; padding: 10px; width: 100%; height: 100%; box-sizing: border-box;}
+#tabela{background-color: #EEE; padding: 20px}
+.card{background-color: white; margin: 10px;width: 20%; border-radius: 20px; box-shadow: 0 10px 10px #777;}
+.card:hover{box-shadow: 0 8px 20px #777}
+.tabela_grande {display: flex;}
+.card-text{padding: 5px;}
+p{padding: 20px 5px 10px 5px }
+footer{background-color: gray;padding: 5px}
+
+.card2{background-color: white;margin: 10px;}
+table.tab{margin: 10px 10px 10px 30px}
+img.foto-legenda {border: 1px solid #000; margin-top: 10px; margin-left:20px}
+figcaption.legenda {margin-top: 0px; margin-left:20px}
